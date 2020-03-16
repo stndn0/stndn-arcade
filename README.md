@@ -1,7 +1,7 @@
 # stndn-arcade
 
 
-<img src="https://i.imgur.com/B1SF4iA.gif" width="400" height="400" />
+<img src="https://i.imgur.com/B1SF4iA.gif" width="1480" height="657" />
 
 
 

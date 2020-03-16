@@ -1,6 +1,7 @@
 # stndn-arcade
 
 
-![Alt Text](https://media.giphy.com/media/lSIxlbnU2sTXzqwYhC/giphy.gif)
+<img src="https://i.imgur.com/B1SF4iA.gif" width="40" height="40" />
+
 
 

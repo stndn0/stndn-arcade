@@ -9,6 +9,6 @@ I plan on rewriting it in the future.
 
 ### Instructions
 Download 'Reaction Lab' and cd into the folder. Run the game through a terminal by typing:
-<pre><code>This is a code block. </code></pre>
+<pre><code>python3 main.py </code></pre>
 
 

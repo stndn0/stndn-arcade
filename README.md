@@ -1,6 +1,6 @@
 # stndn-arcade
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/lSIxlbnU2sTXzqwYhC/giphy.gif)
 
 

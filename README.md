@@ -1,4 +1,4 @@
-# stndn-arcade
+# 🎮 stndn-arcade
 
 ## Reaction Lab
 This is a basic reaction time game made in Python with the pygame module.
